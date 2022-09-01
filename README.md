@@ -8,10 +8,28 @@ A curated list of awesome [Aavegotchi](https://aavegotchi.com) tools, visualizat
 - [Developer Resources](https://github.com/programmablewealth/awesome-aavegotchi/edit/main/README.md#developer-resources)
 
 ## Metrics and Visualizations
+Access the data you need through these dashboards on all things Aavegotchi.
+- [aadventure.io](https://aadventure.io)
+- [fireball.gg](https://fireball.gg)
+- [aavegotchistats.com](https://aavegotchistats.com)
+- [gotchidash.com](https://gotchidash.com/)
+- https://aavegotchi-xp-dashboard.vercel.app/
+- https://knowyourscholar.com/
+- https://gotchiverse-analytics.vercel.app/
+- https://verse-analytics.xyz/
+- https://aavegotchi.land/
+- https://www.haaunt.com/
 
 ## Tools
+- https://www.gotchi.world/
+- https://gotchicare.com/
+- [gotchidex.io](https://www.gotchidex.io/)
+- [gotchilending.com](https://gotchilending.com/)
+- [gotchibuddy.com](https://gotchibuddy.com/)
+- https://gotchifrencharmy.herokuapp.com/
 
 ## Dapps
+- [gotchivault.com](https://gotchivault.com)
 
 ## Games
 
