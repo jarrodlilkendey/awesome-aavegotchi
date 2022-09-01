@@ -32,8 +32,8 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - [gotchivault.com](https://gotchivault.com)
 
 ## Games
-https://app.aavegotchi.com/minigames
-aavegotchi.games
-gotchiminer.rocks
+- https://app.aavegotchi.com/minigames
+- aavegotchi.games
+- gotchiminer.rocks
 
 ## Developer Resources
