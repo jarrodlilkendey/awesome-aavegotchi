@@ -29,6 +29,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - [gotchilending.com](https://gotchilending.com/)
 - [gotchibuddy.com](https://gotchibuddy.com/)
 - https://gotchifrencharmy.herokuapp.com/
+- https://gotchiaaltar.herokuapp.com/
 
 ## Dapps
 - [gotchivault.com](https://gotchivault.com)
