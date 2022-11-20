@@ -19,7 +19,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - https://verse-analytics.xyz/
 - https://aavegotchi.land/
 - https://www.haaunt.com/
-- https://dune.com/shoouunn/Gotchiverse-GLTR
+- https://dune.com/shoouunn/aavegotchi-gotchiverse-gltr
 - https://dune.com/9stx6/aavegotchi-gotchiverse-crafted-harvest-stuff
 
 ## Tools
