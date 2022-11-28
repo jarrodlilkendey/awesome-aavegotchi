@@ -21,6 +21,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - https://www.haaunt.com/
 - https://dune.com/shoouunn/aavegotchi-gotchiverse-gltr
 - https://dune.com/9stx6/aavegotchi-gotchiverse-crafted-harvest-stuff
+- https://dune.com/letsgobankless/alchemica-emissions-and-spendings
 
 ## Tools
 - https://www.gotchi.world/
