@@ -12,7 +12,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - [aadventure.io](https://aadventure.io)
 - [fireball.gg](https://fireball.gg)
 - [aavegotchistats.com](https://aavegotchistats.com)
-- [gotchidash.com](https://gotchidash.com/)
+~~- [gotchidash.com](https://gotchidash.com/)~~
 - https://aavegotchi-xp-dashboard.vercel.app/
 - https://knowyourscholar.com/
 - https://gotchiverse-analytics.vercel.app/
@@ -37,8 +37,16 @@ Access the data you need through these dashboards on all things Aavegotchi.
 
 ## Games
 - https://app.aavegotchi.com/minigames
-- aavegotchi.games
-- gotchiminer.rocks
-- gotchi heroes
+- [GotchiMiner](https://gotchiminer.rocks/)
+- [Gotchi Heroes](https://gotchiheroes.com/)
+- [aavegotchi.games](https://aavegotchi.games/)
 
 ## Developer Resources
+
+- https://github.com/aavegotchi/aavegotchi-contracts
+- https://docs.aavegotchi.com/
+- Building a full-stack Aavegotchi minigame in Phaser [Part 1](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5) [Part 2](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la) [Part 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
+- Building an Aavegotchi DApp using React + Web3 https://dev.to/ccoyotedev/building-an-aavegotchi-dapp-using-react-web3-2noe
+- https://github.com/bmateus/AavegotchiKit
+- https://louper.dev/diamond/0x86935f11c86623dec8a25696e1c19a8659cbf95d?network=polygon
+- https://github.com/aavegotchi/aavegotchi-minigame-template
