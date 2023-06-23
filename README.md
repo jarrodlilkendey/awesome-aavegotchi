@@ -33,6 +33,8 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - https://gotchiaaltar.herokuapp.com/
 
 ## Dapps
+- [Orium Network Petting Service](https://orium.network/aavegotchi/petting-service)
+- [Orium Network Lending Service](https://orium.network/aavegotchi/lending)
 - [gotchivault.com](https://gotchivault.com)
 
 ## Games
