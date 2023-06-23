@@ -12,7 +12,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - [aadventure.io](https://aadventure.io)
 - [fireball.gg](https://fireball.gg)
 - [aavegotchistats.com](https://aavegotchistats.com)
-~~- [gotchidash.com](https://gotchidash.com/)~~
+- ~~[gotchidash.com](https://gotchidash.com/)~~
 - https://aavegotchi-xp-dashboard.vercel.app/
 - https://knowyourscholar.com/
 - https://gotchiverse-analytics.vercel.app/
