@@ -56,20 +56,35 @@ Access the data you need through these dashboards on all things Aavegotchi.
 
 ## Developer Resources
 
-- https://wiki.aavegotchi.com/
+### Smart Contracts
 - https://github.com/aavegotchi/aavegotchi-contracts
+- [Louper: Aavegotchi Diamond](https://louper.dev/diamond/0x86935f11c86623dec8a25696e1c19a8659cbf95d?network=polygon)
+- [Louper: Realm Diamond](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon)
+
+### Documentation
+- https://wiki.aavegotchi.com/
 - [Deployed contract addresses, github repos, ABIs](https://github.com/aavegotchi/deployed-contract-addresses/tree/main)
 - https://docs.aavegotchi.com/
 - https://docs.gotchiverse.io/
+
+### Tutorials
 - Building a full-stack Aavegotchi minigame in Phaser [Part 1](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5) [Part 2](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la) [Part 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 - Building an Aavegotchi DApp using React + Web3 https://dev.to/ccoyotedev/building-an-aavegotchi-dapp-using-react-web3-2noe
-- https://github.com/bmateus/AavegotchiKit
 - [How to Automate Aavegotchi Petting with Pet Operator and Gelato](https://programmablewealth.com/how-to-automate-aavegotchi-petting-with-pet-operator-and-gelato/)
-- [Louper: Aavegotchi Diamond](https://louper.dev/diamond/0x86935f11c86623dec8a25696e1c19a8659cbf95d?network=polygon)
-- [Louper: Realm Diamond](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon)
+
+### Libraries / Utilities
+- https://github.com/bmateus/AavegotchiKit
+
+### Templates
 - https://github.com/aavegotchi/aavegotchi-minigame-template
+
+### Subgraphs
 - [List of Aavegotchi Subgraphs](https://hackmd.io/4stpBbuiTMuDnGLbnudw2w?view)
-- [Feature Requests on canny.io](https://aavegotchi.canny.io/) (Gotchiverse, Aavegotchi.com, Subgraphs)
 - [GraphLooker subgraph explorer](https://graphlooker.com/) - table view & filter, CSV export. [gotchiverse-matic on GraphLookier](https://graphlooker.com/explore?uri=https%3A%2F%2Fapi.thegraph.com%2Fsubgraphs%2Fname%2Faavegotchi%2Fgotchiverse-matic&e=TransferEvent&efd=transferEvents) 
+
+### Branding / Assets
 - https://www.figma.com/file/07293xcWhEYJ1BNYcNzE4g/SVG?type=design&node-id=0-1&mode=design Design assets provided by Pixelcraft
 - [Repository of Aavegotchi icons, images, and sounds](https://github.com/aavegotchi/aavegotchi-assets)
+
+### Other
+- [Feature Requests on canny.io](https://aavegotchi.canny.io/) (Gotchiverse, Aavegotchi.com, Subgraphs)
