@@ -56,6 +56,7 @@ Access the data you need through these dashboards on all things Aavegotchi.
 
 ## Developer Resources
 
+- https://wiki.aavegotchi.com/
 - https://github.com/aavegotchi/aavegotchi-contracts
 - [Deployed contract addresses, github repos, ABIs](https://github.com/aavegotchi/deployed-contract-addresses/tree/main)
 - https://docs.aavegotchi.com/
