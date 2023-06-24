@@ -72,3 +72,4 @@ Access the data you need through these dashboards on all things Aavegotchi.
 - [Feature Requests on canny.io](https://aavegotchi.canny.io/) (Gotchiverse, Aavegotchi.com, Subgraphs)
 - [GraphLooker subgraph explorer](https://graphlooker.com/) - table view & filter, CSV export. [gotchiverse-matic on GraphLookier](https://graphlooker.com/explore?uri=https%3A%2F%2Fapi.thegraph.com%2Fsubgraphs%2Fname%2Faavegotchi%2Fgotchiverse-matic&e=TransferEvent&efd=transferEvents) 
 - https://www.figma.com/file/07293xcWhEYJ1BNYcNzE4g/SVG?type=design&node-id=0-1&mode=design Design assets provided by Pixelcraft
+- [Repository of Aavegotchi icons, images, and sounds](https://github.com/aavegotchi/aavegotchi-assets)
